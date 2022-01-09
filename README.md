@@ -36,7 +36,7 @@ There is no required textbook, but the following books may serve as useful refer
 | 12      	|     Pytorch Case Study: Image   Classification                                                                                                       	|                           	|       	|
 | 13      	|     Introduction to Object Detection                                                                                                                 	|                           	|       	|
 | 14      	|     Few-Shot Learning and   Meta-Learning                                                                                                            	|                           	|       	|
-| 15      	|     Model Agnostic Meta Learning   (MAML)                                                                                                            	| ICML 2017                 	|       	|
+| 15      	|     Model Agnostic Meta Learning   (MAML)                                                                                                            	| [ICML 2017](https://arxiv.org/pdf/1703.03400.pdf)	|       	|
 
 
 
