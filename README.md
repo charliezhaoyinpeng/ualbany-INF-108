@@ -20,6 +20,22 @@ There is no required textbook, but the following books may serve as useful refer
 
 ## Course Outline:
 
-
+| Lecture 	| Topic                                                                                                                                                	| Reading                   	| Notes 	|
+|---------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------	|-------	|
+| 1       	| Course introduction Installation of Python, Pycharm, Pytorch                                                                                         	|                           	|       	|
+| 2       	|     Linear Regression; Logistic   Regression                                                                                                         	|     PRML (Ch 3.1; 4.1)    	|       	|
+| 3       	|     Pytorch: Tensor, Computational   Graph, Autograd, Examples using Pytorch                                                                         	|                           	|       	|
+| 4       	|     Optimizer: Gradient Descent,   Stochastic Gradient Descent, Mini-bach Gradient Descent, Momentum, Nesterov   Momentum, AdaGrad, RMSProp, Adam    	|     DL (Ch 8)             	|       	|
+| 5       	|     Artificial Neural Networks: Structures,   Neurons, Activation Function                                                                           	|     DL (Ch 6, 7)          	|       	|
+| 6       	|     Loss function , Forward and Backward   Propagation                                                                                               	|                           	|       	|
+| 7       	|     Convolutional Neural Netrworks:   filter, padding, stride, channels, input/output dimension,   convolution/pooling                               	|     DL (Ch 9)             	|       	|
+| 8       	|     Weight Decay, Dropout, Batch   Normalization                                                                                                     	|                           	|       	|
+| 9       	|     Pytorch: Dataloader and Dataset                                                                                                                  	|                           	|       	|
+| 10      	|     Pytorch: Data Transforms                                                                                                                         	|                           	|       	|
+| 11      	|     Introduction of CNN   Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet                                                                      	|                           	|       	|
+| 12      	|     Pytorch Case Study: Image   Classification                                                                                                       	|                           	|       	|
+| 13      	|     Introduction to Object Detection                                                                                                                 	|                           	|       	|
+| 14      	|     Few-Shot Learning and   Meta-Learning                                                                                                            	|                           	|       	|
+| 15      	|     Model Agnostic Meta Learning   (MAML)                                                                                                            	|                           	|       	|
 
 
