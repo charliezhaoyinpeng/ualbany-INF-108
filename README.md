@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# CSI 445 Topics in Computer Science: Deep Learning
 
-You can use the [editor on GitHub](https://github.com/charliezhaoyinpeng/ualbany-csi-445/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Semester: Spring 2022 
+Time/Location: Wednesday/Friday 6:00-7:20pm
+Instructor: Chen Zhao
+Contact: czhao4@albany.edu
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Course Description:
 
-### Jekyll Themes
+This course will introduce basic concepts and techniques in deep learning and neural networks. Topics include artificial neural networks, convolution neural networks, introduction to objective detection, few-short meta learning, etc. This is an upper-level undergraduate and graduate-level course. By the end of the course, students will be able to understand and implement simple DNN architectures using Pytorch and be ready to conduct research on these topics. Pre-requested course(s):  ICSI 311, ICSI 401 and ICSI 201. (Preferred but not required: ICSI403 and AMAT 367)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charliezhaoyinpeng/ualbany-csi-445/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Textbooks & References:
 
-### Support or Contact
+There is no required textbook, but the following books may serve as useful references for different parts of the course.
+* Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
+* Deep Learning (DL) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Course Outline:
+
+
+
+
