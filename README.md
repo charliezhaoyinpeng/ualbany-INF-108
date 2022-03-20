@@ -1,48 +1,53 @@
-# CSI 445 Topics in Computer Science: Deep Learning
+# INF 108: Programming for Problem Solving
 
 ```
 Semester: Spring 2022 
-Time/Location: Wednesday/Friday 6:00-7:20pm
+Time/Location: Fully Online (learn at your own pace)
 Instructor: Chen Zhao
-Contact: czhao4@albany.edu
+Contact: czhao4@albany.edu (Important: When emailing, please add [CINF108] at the beginning of the subject line)
+Office Hour: Thursday 9-11pm EST, By appointment (Online)
 ```
 
 ## Course Description:
 
-This course will introduce basic concepts and techniques in deep learning and neural networks. Topics include artificial neural networks, convolution neural networks, introduction to objective detection, few-short meta learning, etc. This is an upper-level undergraduate and graduate-level course. By the end of the course, students will be able to understand and implement simple DNN architectures using Pytorch and be ready to conduct research on these topics. Pre-requested course(s):  ICSI 311, ICSI 401 and ICSI 201. (Preferred but not required: ICSI403 and AMAT 367)
+Ever thought about a problem and said “There should be an app for that”? This course provides an introduction to computer programming using Pyhon – a modern programming language -- as a way to solve problems. It focuses on programming concepts and fundamentals within the context of solving real world problems. This course introduces students to computational thinking and programming as methods to solve problems related to Informatics. This is an Informatics-oriented introduction to programming; therefore, the course is designed for all students and does not require prior programming experience.
+Note: This is a condensed semester schedule; instead of a 15-weeks semester, we have to do all work within 8 weeks.
+
+## Learning Objectives:
+
+Upon completion of the course, students should be able to accomplish the following outcomes:
+* Understand basic programming concepts and fundamentals
+* Gain the background needed to design, develop and implement computer programs
+* Learn to program in Python (even if you have no programming background!) or expand your technical knowledge through hands-on development using the Python 3 programming toolset
+* Practice programming in the context of solving real-world problems
+* Develop your time-management skills through self-scheduling and discipline in an unstructured environment.
 
 ## Textbooks & References:
 
 There is no required textbook, but the following books may serve as useful references for different parts of the course.
-* Pattern Recognition and Machine Learning (PRML) by Christopher M. Bishop
-* Deep Learning (DL) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+* Programming for Problem Solving by Lenore G. Horowitz. https://courses.lumenlearning.com/sunyalbany-programmingforproblemsolving-v2/
+* Python for Everybody - Exploring Data In Python 3 by Charles R. Severance. https://www.py4e.com/book.php
+* The Python community has developed a large set of materials for self-study and shared ideation, available at https://www.python.org.
 
 
 ## Course Outline:
 
-| Lecture 	| Topic                                                                                                                                                	| Reading                   	| Notes 	|
-|---------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------	|-------	|
-| 1       	| Course introduction Installation of Python, Pycharm, Pytorch                                                                                         	|                           	|       	|
-| 2       	|     Linear Regression; Logistic   Regression                                                                                                         	|     PRML (Ch 3.1; 4.1)    	|       	|
-| 3       	|     Pytorch: Tensor, Computational   Graph, Autograd, Examples using Pytorch                                                                         	|                           	|       	|
-| 4       	|     Optimizer: Gradient Descent,   Stochastic Gradient Descent, Mini-bach Gradient Descent, Momentum, Nesterov   Momentum, AdaGrad, RMSProp, Adam    	|     DL (Ch 8)             	|       	|
-| 5       	|     Artificial Neural Networks: Structures,   Neurons, Activation Function                                                                           	|     DL (Ch 6, 7)          	|       	|
-| 6       	|     Loss function , Forward and Backward   Propagation                                                                                               	|                           	|       	|
-| 7       	|     Convolutional Neural Netrworks:   filter, padding, stride, channels, input/output dimension,   convolution/pooling                               	|     DL (Ch 9)             	|       	|
-| 8       	|     Weight Decay, Dropout, Batch   Normalization                                                                                                     	|                           	|       	|
-| 9       	|     Pytorch: Dataloader and Dataset                                                                                                                  	|                           	|       	|
-| 10      	|     Pytorch: Data Transforms                                                                                                                         	|                           	|       	|
-| 11      	|     Introduction of CNN   Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet                                                                      	|                           	|       	|
-| 12      	|     Pytorch Case Study: Image   Classification                                                                                                       	|                           	|       	|
-| 13      	|     Introduction to Object Detection                                                                                                                 	|                           	|       	|
-| 14      	|     Few-Shot Learning and   Meta-Learning                                                                                                            	|                           	|       	|
-| 15      	|     Model Agnostic Meta Learning   (MAML)                                                                                                            	| [ICML 2017](https://arxiv.org/pdf/1703.03400.pdf)	|       	|
+| Lecture 	| Topic                                                                                   	| Deliverables               	| Notes 	|
+|---------	|------------------------------------------------------------------------------------------	|---------------------------	|-------	|
+| 1       	| Course introduction, Installation of Python, Pycharm                                     	|     Quiz 1                  |       	|
+| 2       	| Algorithms, Introduction to Machine Learning, How to think like an Engineer              	|     HW 1    	              |       	|
+| 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements  	|     Quiz 2                 	|       	|
+| 4       	| Conditional execution, Conditional execution                                            	|     HW2             	      |       	|
+| 5       	| Loops and iterations, Control structures, Loops and iterations                           	|     Quiz 3          	      |       	|
+| 6       	| Functions                                                                               	|     HW 3                   	|       	|
+| 7       	| Classes                                                                                   |     Quiz 4             	    |       	|
+| 8       	|                                                                                           |     HW4             	      |       	|
 
 ## Examinations and Grading:
-* Midterm Exam: 30%
-* Quizzes: 10%
-* Homework Assignment: 30%
-* Final Project: 30%
+This course is A-E graded. The final grade will be determined based on the following:
+* Quizzes: 40% (bi-weekly)
+* Homework Assignment: 60% (bi-weekly)
+
 
 If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
 
