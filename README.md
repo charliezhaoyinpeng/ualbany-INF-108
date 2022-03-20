@@ -11,6 +11,7 @@ Office Hour: Thursday 9-11pm EST, By appointment (Online)
 ## Course Description:
 
 Ever thought about a problem and said “There should be an app for that”? This course provides an introduction to computer programming using Pyhon – a modern programming language -- as a way to solve problems. It focuses on programming concepts and fundamentals within the context of solving real world problems. This course introduces students to computational thinking and programming as methods to solve problems related to Informatics. This is an Informatics-oriented introduction to programming; therefore, the course is designed for all students and does not require prior programming experience.
+
 Note: This is a condensed semester schedule; instead of a 15-weeks semester, we have to do all work within 8 weeks.
 
 ## Learning Objectives:
@@ -47,7 +48,7 @@ There is no required textbook, but the following books may serve as useful refer
 This course is A-E graded. The final grade will be determined based on the following:
 * Quizzes: 40% (bi-weekly)
 * Homework Assignment: 60% (bi-weekly)
-
+* Bonus: 5%
 
 If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
 
