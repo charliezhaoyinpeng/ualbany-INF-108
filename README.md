@@ -38,10 +38,10 @@ There is no required textbook, but the following books may serve as useful refer
 | 1       	| Course introduction, Installation of Python, Pycharm                                     	|     HW 1                    |       	|
 | 2       	| Introduction to Machine Learning, Algorithms, How to become a machine learning engineer  	|     Quiz 1    	            |       	|
 | 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements  	|     HW 2                 	  |       	|
-| 4       	| Conditional execution, Conditional execution                                            	|     Quiz 2             	    |       	|
-| 5       	| Loops and iterations, Control structures, Loops and iterations                           	|     HW 3          	        |       	|
-| 6       	| Functions                                                                               	|     Quiz 3                 	|       	|
-| 7       	| Classes                                                                                   |     HW 4             	      |       	|
+| 4       	| Conditional execution, Functions and Lists                                              	|     Quiz 2             	    |       	|
+| 5       	| Loops and iterations and Dictionaries                                                    	|     HW 3          	        |       	|
+| 6       	| Classes                                                                                 	|     Quiz 3                 	|       	|
+| 7       	| File Input/Output                                                                         |     HW 4             	      |       	|
 | 8       	|                                                                                           |     Quiz 4             	    |       	|
 
 ## Examinations and Grading:
