@@ -1,11 +1,11 @@
 # INF 108: Programming for Problem Solving
 
 ```
-Semester: Spring 2022 
+Semester: Spring 2023 
 Time/Location: Fully Online (learn at your own pace)
 Instructor: Chen Zhao
 Contact: czhao4@albany.edu (Important: When emailing, please add [CINF108] at the beginning of the subject line)
-Office Hour: Thursday 9-11pm EST, By appointment (Online)
+Office Hour: By appointment (Online)
 ```
 
 ## Course Description:
