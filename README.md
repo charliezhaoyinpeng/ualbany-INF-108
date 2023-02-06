@@ -33,21 +33,29 @@ There is no required textbook, but the following books may serve as useful refer
 
 ## Course Outline:
 
-| Lecture 	| Topic                                                                                   	| Deliverables               	| Notes 	|
-|---------	|------------------------------------------------------------------------------------------	|---------------------------	|-------	|
-| 1       	| Course introduction, Installation of Python, Pycharm                                     	|     HW 1                    |       	|
-| 2       	| Introduction to Machine Learning, Algorithms, How to become a machine learning engineer  	|     Quiz 1    	            |       	|
-| 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements  	|     HW 2                 	  |       	|
-| 4       	| Conditional execution, Functions and Lists                                              	|     Quiz 2             	    |       	|
-| 5       	| Loops and iterations and Dictionaries                                                    	|     HW 3          	        |       	|
-| 6       	| Classes                                                                                 	|     Quiz 3                 	|       	|
-| 7       	| File Input/Output                                                                         |     HW 4             	      |       	|
-| 8       	|                                                                                           |     Quiz 4             	    |       	|
+| Weeks   	| Topic                                                                                   	    | Deliverables               	| Notes 	|
+|---------	|------------------------------------------------------------------------------------------	    |---------------------------	|-------	|
+| 1       	| Course introduction, Installation of Python, Pycharm                                     	    |     Installing PyCharm      |       	|
+| 2       	| Introduction to Machine Learning, Algorithms, How to become a machine learning engineer  	    |                	            |       	|
+| 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements I   	|     HW 1                 	  |       	|
+| 4       	| Programming with Python, Writing simple programs, Variables, expressions and statements II  	|                          	  |       	|
+| 5       	| Conditional execution, Functions and Lists I                                             	    |     Quiz 1             	    |       	|
+| 6       	| Conditional execution, Functions and Lists II                                            	    |     HW 2              	    |       	|
+| 7       	| Midterm                                                                                 	    |                    	        |       	|
+| 8       	| Loops and iterations and Dictionaries I                                                  	    |     Quiz 2         	        |       	|
+| 9       	| Loops and iterations and Dictionaries II                                                 	    |     HW 3          	        |       	|
+| 10       	| Classes I                                                                                	    |     Quiz 3                 	|       	|
+| 11       	| Classes II                                                                               	    |     HW 4                   	|       	|
+| 12       	| File Input/Output                                                                             |     Quiz 4           	      |       	|
+| 13       	| File Input/Output                                                                             |     HW 5              	    |       	|
+| 14       	| TBD                                                                                           |                       	    |       	|
 
 ## Examinations and Grading:
 This course is A-E graded. The final grade will be determined based on the following:
-* Quizzes: 40% (bi-weekly)
-* Homework Assignment: 60% (bi-weekly)
+* Quizzes: 15% 
+* Homework Assignment: 35% 
+* Midterm Exam: 25%
+* Final Exam: 25%
 * Bonus: 5%
 
 If a student feels they will miss a course obligation for any reason, they must reach out to the course instructor for guidance.
