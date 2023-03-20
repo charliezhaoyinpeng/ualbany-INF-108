@@ -42,11 +42,11 @@ There is no required textbook, but the following books may serve as useful refer
 | 5       	| Conditional execution, Functions and Lists I                                             	    |     Quiz 1             	    |       	|
 | 6       	| Conditional execution, Functions and Lists II                                            	    |     HW 2              	    |       	|
 | 7       	| Midterm                                                                                 	    |                    	        |       	|
-| 8       	| Loops and iterations and Dictionaries I                                                  	    |     Quiz 2         	        |       	|
+| 8       	| Loops and iterations and Dictionaries I                                                  	    |                    	        |       	|
 | 9       	| Loops and iterations and Dictionaries II                                                 	    |     HW 3          	        |       	|
-| 10       	| Classes I                                                                                	    |     Quiz 3                 	|       	|
+| 10       	| Classes I                                                                                	    |     Quiz 2                 	|       	|
 | 11       	| Classes II                                                                               	    |     HW 4                   	|       	|
-| 12       	| File Input/Output                                                                             |     Quiz 4           	      |       	|
+| 12       	| File Input/Output                                                                             |     Quiz 3           	      |       	|
 | 13       	| File Input/Output                                                                             |     HW 5              	    |       	|
 | 14       	| TBD                                                                                           |                       	    |       	|
 
